@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Zyxenmovies.application/1.0.0": {
+        "dependencies": {
+          "Zyxenmovies.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Zyxenmovies.application.dll": {}
+        }
+      },
+      "Zyxenmovies.Domain/1.0.0": {
+        "runtime": {
+          "Zyxenmovies.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zyxenmovies.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zyxenmovies.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

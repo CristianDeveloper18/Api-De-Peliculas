@@ -1,0 +1,12 @@
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\bin\Debug\net5.0\Zyxenmovies.Domain.deps.json
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\bin\Debug\net5.0\Zyxenmovies.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\bin\Debug\net5.0\ref\Zyxenmovies.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\bin\Debug\net5.0\Zyxenmovies.Domain.pdb
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\ref\Zyxenmovies.Domain.dll
+C:\Users\Cristian\Desktop\5to cuatri\Aplicaciones web para i4.0\Api peliculas\Zyxenmovies.Domain\obj\Debug\net5.0\Zyxenmovies.Domain.pdb
